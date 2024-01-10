@@ -9,3 +9,8 @@ Matrizes
 durations_seconds ->  matriz de tempo para trajeto rodoviário automóvel em segundos entre municípios do Brasil
 durations_hours ->  matriz de tempo para trajeto rodoviário automóvel em hours entre municípios do Brasil
 distance_km ->  matriz de distância para trajeto rodoviário automóvel  em Km entre municípios do Brasil
+
+Dados estão compactados pelo 7zip
+
+também é necessário usar o pacote fst do para acessar as matrizes.
+
